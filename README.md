@@ -1,3 +1,3 @@
 # SLOTMACHINE
 
-version 1 copyright Antonio Parra
+version 2 copyright Antonio Parra
