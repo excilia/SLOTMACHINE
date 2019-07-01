@@ -1,0 +1,47 @@
+@charset "UTF-8";
+#tragaperras {
+	list-style:none;
+	padding:20px;
+	width:80%;
+	margin: 10px auto;
+	border:1px solid silver;
+	border-radius:10px;
+	text-align:center;
+}
+#tragaperras li {
+	
+	display:inline-block;
+	padding:30px;
+	margin: 40px auto;
+	border:1px solid silver;
+	border-radius:10px;
+}
+#tragaperras li  img{
+	width:250px;
+	
+}
+
+#tragaperras .controles input{
+margin-left:30px;
+border: red 3px solid;
+padding:10px;
+margin-top:5px;
+}
+#tragaperras .controles #pulsar{
+position:relative;
+left:-50px;
+margin-left:10px;
+border: black 3px solid;
+padding:40px;
+margin-top:-10px;
+}
+#parrafo{
+position:relative;
+left:20px;
+margin-top:-20px;
+
+}
+p{
+font-size:30px;
+color:red;
+}
