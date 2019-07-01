@@ -25,7 +25,7 @@ function pulsando(){
 			
 			bombos.push(azar);
 			
-			document.getElementById("bombo"+i).src="css/"+azar+".png";
+			document.getElementById("bombo"+i).src="img/"+azar+".png";
 			
 			
 				alert("Los números elegidos son " +bombos);
