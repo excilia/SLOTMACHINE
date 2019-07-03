@@ -1,6 +1,7 @@
 /**
  * 
  */
+//Esta función crea los números al azar.
 function getRndInteger(max, min) {
 	  return Math.floor(Math.random() * (max - min + 1) ) + min;
 }
@@ -17,7 +18,10 @@ var depositoPremios;
 
 
 document.getElementById("pulsar").addEventListener("click", pulsando);
-		
+
+/*Esta función se llama al hacer click en pulsar. La función se anula cuando el depósito es inferior a 10
+ * En este caso no tiene argumentos ni es necesario que 
+ */
 function pulsando(){
 	
 		for(var i=1; i<4; i++){
